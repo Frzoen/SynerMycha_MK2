@@ -1,2 +1,2 @@
-# SynerMycha_MK2
+# SynerMycha Mk II
 Repozytorium dla projektu robota micromouse
