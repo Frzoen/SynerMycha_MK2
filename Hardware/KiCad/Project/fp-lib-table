@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Project)(type KiCad)(uri /home/smroz/SynerMycha_MK2/Hardware/KiCad/Project)(options "")(descr ""))
+  (lib (name VL53L0X)(type KiCad)(uri ${KIPRJMOD}/VL53L0X)(options "")(descr ""))
+)
